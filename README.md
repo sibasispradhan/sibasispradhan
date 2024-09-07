@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1><img src="#" width="30"/> Hey! Nice to see you.</h1>
 <h1 align="center">I'm Sibasis Pradhan 😀</h1>
-<h4 align="center">I'm a Team Leader (Product Development) at 3S Logics Private Limited</h4>
+<h4 align="center">I'm a Tech Lead at <a href="https://febi.ai/">Febi.ai</a></h4>
 
 
 
